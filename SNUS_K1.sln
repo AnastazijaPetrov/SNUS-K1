@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNUS_K1", "SNUS_K1.csproj", "{F92E4425-51AD-43F9-B4B2-8B2F52C289A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92E4425-51AD-43F9-B4B2-8B2F52C289A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92E4425-51AD-43F9-B4B2-8B2F52C289A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92E4425-51AD-43F9-B4B2-8B2F52C289A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92E4425-51AD-43F9-B4B2-8B2F52C289A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4ACE4B-5A09-46F6-8C3B-636EB6B4A150}
+	EndGlobalSection
+EndGlobal
